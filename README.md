@@ -2,7 +2,7 @@
 
 Here are 3 trends I've analyzed looking at the graphs in the Pyber homework:
 
-1. The more drivers present in the city type tends to drive the average price down. This is prevalent in the bubble chart where Rural average fares are higher but there are less drivers. The competition is good for consumers.
+1. The more drivers present in the city type tends to drive the average price down. This is prevalent in the bubble chart where Rural average fares are higher but there are less drivers. The competition is good for consumers as evidenced by looking at the Urban city type.
 
 2. Urban cities where the population is most certainly higher, use public transportation more frequently. This is obvious across all of the graphs where the Urban cities are such large portions of the overall percentages.
 
